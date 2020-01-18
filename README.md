@@ -1,4 +1,4 @@
-# Website Storage
+# Website Basics
 This is a repository for website related work.
 
 ## Overview
