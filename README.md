@@ -9,3 +9,17 @@ This class will help you:
 
 ## Sites
 [Pies](https://buckeyehn.github.io/website/pie/)
+
+## Powershell Setup
+# LOCAL
+$username='username'
+$path='C:\src\test'
+git config --global user.name "$username"
+git config --global user.email "$username@users.noreply.github.com"
+$dir="$path"
+$website="$dir\website"
+Clear-Host
+git config --global user.name
+git config --global user.email
+Write-Host 'Use $website for C:\src\jerice\website'
+Set-Location $dir
