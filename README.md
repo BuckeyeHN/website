@@ -8,7 +8,7 @@ This class will help you:
 * Create websites with specific characteristics
 
 ## Sites
-[Pies](https://buckeyehn.github.io/website/pie/)
+*[Pies](https://buckeyehn.github.io/website/pie/)
 [Cookies](https://buckeyehn.github.io/website/cookie/)
 ## Powershell Setup
 # LOCAL
