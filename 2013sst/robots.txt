@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /scripts
-Disallow: /Images
-Sitemap: http://www.silverslipperstravel.com/sitemap.xml
-
