@@ -9,7 +9,7 @@ This class will help you:
 
 ## Sites
 * [Pies](https://buckeyehn.github.io/website/pie/)
-* [Cookies](https://buckeyehn.github.io/website/cookie/)
+* [Why have cats?](https://buckeyehn.github.io/website/cookie/)
 * [Bread Crunch](https://buckeyehn.github.io/website/breadcrunch/)
 ## Powershell Setup
 # LOCAL
