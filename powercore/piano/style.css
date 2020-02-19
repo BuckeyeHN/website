@@ -19,9 +19,9 @@
   
       .keyLabel {font-weight: 900; text-shadow: 0px -1px 5px #EBF508; font-size: 15px;}
   
-      .black { background-color: rgb(0,0,0); color: #ffffff; z-index: 1; text-shadow: 0px -1px 1px #FF0000; }
+      .black { background-color: rgb(0,0,0); color: #ffffff; z-index: 1; }
       
-      .white { background-color: rgb(255,255,255); color: #3008F5; z-index: 0; text-shadow: 0px 1px 1px #08E8F5; }
+      .white { background-color: rgb(255,255,255); color: #3008F5; z-index: 0; }
       
       .keyboard-holder { margin: 30px auto; height: 200px; position:relative; user-select:none; -webkit-user-select:none;-moz-user-select:none;-o-user-select:none; }
   

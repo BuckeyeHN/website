@@ -208,7 +208,7 @@ function playKeyboard(){
 	// Generate keyboard
 	let visualKeyboard = document.getElementById('keyboard');
 	let selectSound = {
-		value: "1" //piano
+		value: "3" //piano
 	};
 
 	var iKeys = 0;
