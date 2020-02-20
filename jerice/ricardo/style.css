@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron|Orbitron:800&display=swap');
+
+body {
+    padding: 0px;
+    margin-top: 0px;
+    text-align: center;
+    background-color: gray;
+}
+#mainpic {
+    opacity: 50%;
+    height: 50px;
+}
+
+.header {
+    padding: 0px;
+    margin-top: 0px;
+    font-family: 'Orbitron';
+    color: green;
+    font-size: 25;
+}
+
+#main {
+    margin: auto;
+    position:relative;
+    text-align: center;
+    background-color: #000000;
+    border-bottom: 5px;
+    padding-bottom: 5px;
+    border-radius: 0px 0px 25px 25px;   
+    border-color: darkblue;
+    width: 75%;
+    font-family: 'Orbitron', sans-serif;
+}
+
+/* #mtextbkg {
+    background-image: url("logo.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 70%;
+    height: 500px;
+    opacity:0.2;
+} */
+#mtext {
+    color: aliceblue;
+    top: 100;
+    left:0;
+    height: 500px;
+}
+.column {
+    float: left;
+    width: 25%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+h4 {
+    font-family: 'Orbitron', 'sans-serif';
+    font-weight: 800;
+    font-size: 45;
+    color: green;
+    opacity: 85%;
+}
+
+
+#dleft {
+    height: 200px;
+    background-color: darkolivegreen;
+}
+
+#dcenter {
+    height: 200px;
+    background-color: rgb(74, 80, 63);
+}
+
+#dright {
+    height: 200px;
+    background-color: rgb(182, 219, 114);
+}
+
+#imgm {
+    border-radius: 20px;
+    border-style: dotted;
+    border-color: greenyellow;
+    border: 2px;
+}
