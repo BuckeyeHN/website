@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(29,31,29);
+    color: #FFFFFF;
+    font-family: Audiowide, Geneva, Tahoma, sans-serif;
+    color: rgb(39, 169, 186);
+}
+img {
+    border-style: solid;
+    border-color: whitesmoke;
+    border-radius: 25%;
+}
+#profile {
+margin-right: 525px;
+border-style: double;
+border-width: 10px;
+height: 75px;
+width: 75px;
+}
+#Facebook {
+    margin-right: 475px;
+}
