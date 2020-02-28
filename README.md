@@ -9,9 +9,9 @@ This class will help you:
 
 ## Sites
 * [Pies](https://buckeyehn.github.io/website/pie/)
-* [Jricardo](https://buckeyehn.github.io/website/ricardo/)
+* [Jricardo](https://buckeyehn.github.io/website/punestro/ricardo/)
 * [Why have cats?](https://buckeyehn.github.io/website/cookie/)
-* [Bread Crunch](https://buckeyehn.github.io/website/breadcrunch/)
+* [Bread Crunch](https://buckeyehn.github.io/website/punestro/breadcrunch/)
 ## Powershell Setup
 # LOCAL
 $username='username'
