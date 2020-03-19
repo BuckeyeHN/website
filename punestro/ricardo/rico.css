@@ -1,0 +1,35 @@
+body{
+    background-color: gray;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: deepskyblue;
+    font-family: monospace;
+}
+h2{
+    text-align: center;
+    color: deepskyblue;
+    font-family: monospace;
+}
+p{
+    color: dodgerblue;
+    font-size: larger;
+    margin-left: 10%;
+    text-align: center;
+    font-family: Roboto Mono;
+}
+button{
+    align-self: center;
+}
+#topimg{
+    width: 100%;
+    
+}
+#mimgdiv{
+text-align: center;
+}
+ul{
+    margin: 5%;
+    color: dodgerblue;
+}
