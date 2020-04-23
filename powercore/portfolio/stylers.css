@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Russo+One&display=swap") 
+
+#navandtitle {
+     margin: auto;
+     position:relative;
+     text-align: center;
+     background-color: #B1A6A4;
+     color: #413F3D;
+     font-family: 'Russo One';
+     border-bottom: 0px;
+     padding-bottom: 5px;
+     width: 90%;
+     width: 90%;
+}
