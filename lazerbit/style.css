@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Orbitron&display=swap');
-
+/*
+#696968
+#c6c3ba
+#dad7cd
+#b2ceb3
+#658e64
+#46684c
+#344e41
+#25382d
+#152219
+Font for stuff: Russo One for titles, Ubuntu for others
+*/
 body {
   padding: 0px;
   margin-top: 0px;
@@ -17,7 +28,7 @@ body {
   border-radius: 0px 0px 25px 25px;   
   border-color: darkblue;
   width: 75%;
-  font-family: 'Orbitron', sans-serif;
+  font-family: 'Russo One', sans-serif;
   height: 500px;
 }
 
