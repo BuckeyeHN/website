@@ -1,0 +1,54 @@
+#header-img{
+    width: 60px;
+}
+#nav-bar {
+    background-color: gold;
+    font-family: Odibee Sans;
+    text-align: center;
+    width: 100%;
+  }
+
+#movie{
+    background-color: wheat;
+}
+h1{
+    text-align: center;
+    color: darkblue;
+    font-family: monospace;
+}
+h2{
+    text-align: center;
+    color: darkblue;
+    font-family: monospace;
+}
+p{
+    color: red;
+    font-size: larger;
+
+    text-align: center;
+    font-family: Roboto Mono;
+}
+a{
+  color: red;
+  background-color: wheat;
+  width: 15%;
+  height: 5%;
+  font-size: 200%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+.column1 {
+    float: left;
+    width: 75%;
+  }
+  .column2 {
+    float: right;
+    width: 25%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
