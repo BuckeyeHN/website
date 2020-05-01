@@ -15,7 +15,7 @@ body {
   padding: 0px;
   margin-top: 0px;
   text-align: center;
-  background-color: gray;
+  background-color: dimgray;
 }
 
 #main {
@@ -29,6 +29,7 @@ body {
   border-color: darkblue;
   width: 75%;
   font-family: 'Russo One', sans-serif;
+  color: orangered;
   height: 500px;
 }
 
@@ -54,6 +55,10 @@ body {
   border-top-width: 2px;
   border-bottom-width: 2px;
   border-radius: 2px;
+}
+
+.row {
+  background-color: dimgray;
 }
 
 #right {
@@ -97,9 +102,9 @@ body {
   cursor: pointer;
   position: absolute;
   top: 40%;
-  width: auto;
+  width: 20px;
   padding: 16px;
-  margin-top: -50px;
+  margin-top: 50px;
   color: white;
   font-weight: bold;
   font-size: 20px;
@@ -110,7 +115,7 @@ body {
 
 /* Position the "next button" to the right */
 .next {
-  right: 0;
+  right: -150;
   border-radius: 3px 0 0 3px;
 }
 
@@ -146,7 +151,7 @@ body {
 /* Six columns side by side */
 .column {
   float: left;
-  width: 16.66%;
+  width: 14.28%;
 }
 
 /* Add a transparency effect for thumnbail images */
