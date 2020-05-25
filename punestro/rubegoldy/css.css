@@ -1,0 +1,30 @@
+h2 {
+    align-items: center;
+    font-family: Rock Salt;
+    color: darkred;
+}
+a {
+    margin-left: 5%;
+    margin-right: 5%;
+    color: darkred;
+}
+h1 {
+    margin-left: 5%;
+    margin-right: 5%;
+    align-items: center;
+    color: darkred;
+    font-family: Rock Salt;
+}
+body {
+    align-content: center;
+    background-color: lightsalmon;
+}
+p {
+    font-size: 20px;
+    font-family: Chelsea Market;
+    color: darkolivegreen;
+}
+ul {
+    font-family: Chelsea Market;
+    color: darkolivegreen;
+}
