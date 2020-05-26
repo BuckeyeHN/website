@@ -17,14 +17,17 @@ h1 {
 }
 body {
     align-content: center;
+    text-align: center;
     background-color: lightsalmon;
 }
 p {
     font-size: 20px;
+    text-align: left;
     font-family: Chelsea Market;
     color: darkolivegreen;
 }
 ul {
     font-family: Chelsea Market;
     color: darkolivegreen;
+    text-align: left;
 }
