@@ -31,3 +31,18 @@ ul {
     color: darkolivegreen;
     text-align: left;
 }
+.whoimg{
+    height: 50%;
+}
+.whatimg{
+    height: 60%;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+#right{
+    border-left-width: 2.5px;
+}
+#left{
+    border-right-width: 2.5px;
+}
